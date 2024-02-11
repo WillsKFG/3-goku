@@ -1,0 +1,14 @@
+div {
+    background-image: linear-gradient(to right, red, yellow);
+  }
+p {
+color:black;
+}
+
+h1{
+    color: orange;
+}
+
+body {
+background-color: lightblue;
+}
